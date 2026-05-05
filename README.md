@@ -1,5 +1,6 @@
-## Hi there 👋
+I am a Computer Science student at the University of Maryland, Baltimore County (UMBC) specializing in cybersecurity and full-stack development. Currently, I serve as a Junior Full Stack Software Engineer Intern at Didara Technology, where I am the lead logic developer for anomaly detection systems. Utilizing Python and Node.js, I leverage libraries such as Pandas, NumPy, and Scikit-learn to aggregate and normalize data generated from specialized hardware. This technical framework directly contributes to ensuring the health and wellness of older adults aging in place. 
 
+Alongside my academic degree, I have earned the Google Cybersecurity Professional Certificate, which provided hands-on training in threat detection and defensive security principles. My technical curiosity extends to hardware architecture; I enjoy disassembling and reassembling legacy computers to understand the integration of components into a functional unit. I am seeking entry-level roles in computer security where I can apply my experience in anomaly detection and backend development to defend complex infrastructures.
 <!--
 **JGill404/JGill404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
